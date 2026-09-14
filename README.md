@@ -2,13 +2,13 @@
 
 Sistema de gerenciamento de tarefas desenvolvido em **Java**, com foco na aplicação prática de conceitos de **Programação Orientada a Objetos (POO)**.
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 O projeto consiste em uma aplicação de lista de tarefas (To-Do List), permitindo o gerenciamento de diferentes tipos de tarefas e seus respectivos comportamentos.
 
 A aplicação foi desenvolvida como atividade acadêmica da disciplina de Programação Orientada a Objetos, com o objetivo de aplicar conceitos de orientação a objetos em um sistema prático de gerenciamento de tarefas.
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 A aplicação permite:
 
@@ -23,7 +23,7 @@ A aplicação permite:
 - Reagendamento automático de tarefas recorrentes após sua conclusão;
 - Exibição das informações de acordo com o tipo de tarefa.
 
-## 🧩 Conceitos de Programação Orientada a Objetos
+##  Conceitos de Programação Orientada a Objetos
 
 Durante o desenvolvimento foram aplicados diferentes conceitos de POO:
 
@@ -55,7 +55,7 @@ Utilizado para representar os diferentes estados possíveis das tarefas:
 - Em andamento
 - Concluído
 
-## 🏗️ Estrutura do projeto
+##  Estrutura do projeto
 
 ```text
 projeto-to-do-list-POO/
